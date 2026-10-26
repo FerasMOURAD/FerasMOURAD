@@ -68,11 +68,15 @@ Data Analyst &amp; Machine Learning enthusiast with a strong mathematical founda
 
 ### 📈 Contributions
 
+### 📈 Contributions
+
 <p align="center">
-  <a href="https://github.com/FerasMOURAD">
-    View my GitHub profile and contribution activity
-  </a>
+  <img
+    src="https://ghchart.rshah.org/2ea043/FerasMOURAD"
+    alt="Feras MOURAD's GitHub contribution graph"
+  />
 </p>
+
 
 <!--
 Quand le service du graphique sera de nouveau disponible,
