@@ -66,10 +66,7 @@ Data Analyst &amp; Machine Learning enthusiast with a strong mathematical founda
   />
 </p>
 
-
-
-Quand le service du graphique sera de nouveau disponible,
-tu pourras remplacer le lien ci-dessus par cette image :
+### Contributions
 
 <p align="center">
   <img
